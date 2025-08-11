@@ -28,7 +28,7 @@ For both active traders and long-term investors, Coinigy provides an environment
 
 ---
 
-![Coinigy Interface](https://insights.coinigy.com/content/images/2023/09/CoinigyBoards.png)
+![Coinigy Interface](https://www.coinigy.com/public/static/features_new-6d1616a9bbe7b440a10022c4dbf8744c.png)
 
 ---
 
